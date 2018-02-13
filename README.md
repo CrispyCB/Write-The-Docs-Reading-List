@@ -10,4 +10,4 @@ The entirety of the accompanying documentation file is written in Markdown. Mark
 To document a new entry in the repository, please follow these steps:
 1. Open the Markdown file in edit mode.
 2. Find the relevant section of the file (or add a new one following the syntax of previous sections).
-3. Add your entry. Entry syntax should have the following: [NAME OF BOOK/LINK](LINK) by AUTHOR NAME. Links should be to Amazon, Goodreads, or, in the case of blogs, directly to the blog post in question.
+3. Add your entry. Entry syntax should have the following: [NAME OF BOOK/LINK](LINK) followed by AUTHOR NAME. Links should be to Amazon, Goodreads, or, in the case of blogs, directly to the blog post in question.
