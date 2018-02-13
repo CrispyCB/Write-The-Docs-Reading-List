@@ -6,6 +6,12 @@ Technical Writing
 
 ["Learn API Doc"](http://idratherbewriting.com/learnapidoc/) by Tom Johnson at [I'd Rather Be Writing](http://idratherbewriting.com/).
 
+------------
+Style Guides
+------------
+
+[Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/) by Microsoft.
+
 ------
 Coding
 ------
