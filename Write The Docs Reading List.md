@@ -6,11 +6,15 @@ Technical Writing
 
 ["Learn API Doc"](http://idratherbewriting.com/learnapidoc/) by Tom Johnson at [I'd Rather Be Writing](http://idratherbewriting.com/).
 
+["Docs Like Code"](https://www.docslikecode.com/book/) by Anne Gentle at ["Just Write Click"](https://justwriteclick.com/).
+
 ------------
 Style Guides
 ------------
 
 [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/) by Microsoft.
+
+[Google Developer Documentation Style Guide](https://developers.google.com/style/) by Google.
 
 ------
 Coding
