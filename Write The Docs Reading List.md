@@ -16,6 +16,8 @@ Style Guides
 
 [Google Developer Documentation Style Guide](https://developers.google.com/style/) by Google.
 
+[Web Style Guide](http://webstyleguide.com/index.html) by Patrick J. Lynch and Sarah Horton.
+
 ------
 Coding
 ------
