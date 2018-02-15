@@ -29,3 +29,9 @@ DevOps
 ------
 
 ["Scaling a TechDocs Team From 1 To 100 (Part 1)"](http://blog.thoward37.me/articles/scaling-a-techdocs-team-from-1-to-100-(part-1)/) by Troy Howard at [Lounge Scene](http://blog.thoward37.me/).
+
+------
+Usability
+------
+
+[Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by Steve Krug.
