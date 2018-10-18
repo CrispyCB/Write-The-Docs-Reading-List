@@ -35,6 +35,8 @@ Technical Writing
 
 ["Learn API Doc"](http://idratherbewriting.com/learnapidoc/) by Tom Johnson at [I'd Rather Be Writing](http://idratherbewriting.com/).
 
+["The Product is Docs"](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/1973589400/) by Christopher Gales at [Splunk Documentation Team](http://docs.splunk.com/Documentation)
+
 ------
 Usability
 ------
