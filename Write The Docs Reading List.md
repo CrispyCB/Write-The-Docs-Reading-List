@@ -17,6 +17,8 @@ DevOps
 Style Guides
 ------------
 
+[18F Content Guide](https://content-guide.18f.gov/) by 18F.
+
 [Apple Style Guide](https://help.apple.com/applestyleguide/) by Apple.
 
 [Federal Plain Language Style Guide](https://plainlanguage.gov/guidelines/) by General Service Administration.
@@ -35,7 +37,11 @@ Technical Writing
 
 ["Learn API Doc"](http://idratherbewriting.com/learnapidoc/) by Tom Johnson at [I'd Rather Be Writing](http://idratherbewriting.com/).
 
-["The Product is Docs"](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/1973589400/) by Christopher Gales at [Splunk Documentation Team](http://docs.splunk.com/Documentation)
+["Letting Go of the Words"](http://a.co/d/g30bU0t) by Janice (Ginny) Redish.
+
+["Modern Technical Writing"](http://a.co/d/6YwdtXR) by Andrew Etter.
+
+["The Product is Docs"](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/1973589400/) by Christopher Gales at [Splunk Documentation Team](http://docs.splunk.com/Documentation).
 
 ------
 Usability
